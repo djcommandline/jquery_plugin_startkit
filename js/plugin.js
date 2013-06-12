@@ -60,5 +60,10 @@ $.fn.pluginName.defaults = {
 };
 
 
+// helper function
+$.fn.pluginName.helperFunction = function() {
+
+};
+
 
 }(jQuery));
